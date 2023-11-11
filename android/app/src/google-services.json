@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "138770435296",
+    "project_id": "myotp-ff01c",
+    "storage_bucket": "myotp-ff01c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138770435296:android:d1bd7b8544c81912931485",
+        "android_client_info": {
+          "package_name": "com.example.ova"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          
+          "current_key": "AIzaSyAZ0NaqyqdKLCFRYkqaapnJ7sWPgrubAPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
